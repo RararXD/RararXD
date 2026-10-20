@@ -1,6 +1,6 @@
 ## Hi there 👋
 😁I am Rarar_XD.
-- 🌱 I’m currently learning Bioscience & Biosoftware.
+- 🌱 Learning to code, one bug at a time.
 - 📫 How to reach me: <rita.chu@rarverse.com>
 - 📕 Blog: <https://blog.rarverse.com>  / <https://blog.sudormrf.tech> 
 
